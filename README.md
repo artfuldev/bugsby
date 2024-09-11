@@ -1,2 +1,3 @@
 # bugsby
-A simple tool that can provide targeted suggestions on tests for code
+
+A simple tool that can provide targeted suggestions on tests for code.
